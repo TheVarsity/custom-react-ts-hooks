@@ -15,8 +15,8 @@ npm add custom-react-ts-hooks
 
 ## List of Supported Hooks
 
-- [useEventListener](../src/useEventListener/README.md)
-- [useScrollSpy](../src/useScrollSpy/README.md)
+- [useEventListener](./src/useEventListener/)
+- [useScrollSpy](./src/useScrollSpy/)
 
 ## Usage
 
